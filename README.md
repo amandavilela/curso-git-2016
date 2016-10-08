@@ -1,4 +1,4 @@
-# curso-git-2016
-Repo para o curso de git da Semana da Tecnologia da Fatec Sorocaba
+# THE RED PILL
+
 >my code doesn't work and I don't know why...
 >my code works and I don't know why...
